@@ -1,0 +1,237 @@
+{
+    "ios_app_store_link" : "",
+    "android_play_store_link" : "",
+    "sticker_packs" : [
+    {
+        "identifier": "cuppyID",
+        "name": "SO FRENCHIE Pack 1",
+        "publisher": "Poshy Couture LLC",
+        "tray_image_file" : "tray.png",
+        "publisher_website" : "",
+        "privacy_policy_website" : "",
+        "license_agreement_website" : "",
+        "stickers": [
+        {
+            "image_file": "s1.png",
+            "emojis": []
+        },
+        {
+            "image_file": "s2.png",
+            "emojis": []
+        },
+        {
+            "image_file": "s3.png",
+            "emojis": []
+        },
+        {
+            "image_file": "s4.png",
+            "emojis": []
+        },
+        {
+            "image_file": "s6.png",
+            "emojis": []
+        },
+        {
+            "image_file": "s7.png",
+            "emojis": []
+        },
+        {
+            "image_file": "s8.png",
+            "emojis": []
+        },
+        {
+            "image_file": "s9.png",
+            "emojis": []
+        },
+        {
+            "image_file": "s11.png",
+            "emojis": []
+        },
+        {
+            "image_file": "s12.png",
+            "emojis": []
+        },
+        {
+            "image_file": "s13.png",
+            "emojis": []
+        },
+        {
+            "image_file": "s14.png",
+            "emojis": []
+        },
+        {
+            "image_file": "s15.png",
+            "emojis": []
+        },
+        {
+            "image_file": "s16.png",
+            "emojis": []
+        },
+        {
+            "image_file": "s17.png",
+            "emojis": []
+        },
+        {
+            "image_file": "s18.png",
+            "emojis": []
+        },
+        {
+            "image_file": "s19.png",
+            "emojis": []
+        },
+        {
+            "image_file": "s20.png",
+            "emojis": []
+        },
+        {
+            "image_file": "s21.png",
+            "emojis": []
+        },
+        {
+            "image_file": "s22.png",
+            "emojis": []
+        },
+        {
+            "image_file": "s23.png",
+            "emojis": []
+        },
+        {
+            "image_file": "s24.png",
+            "emojis": []
+        },
+        {
+            "image_file": "s25.png",
+            "emojis": []
+        },
+        {
+            "image_file": "s26.png",
+            "emojis": []
+        },
+        {
+            "image_file": "s27.png",
+            "emojis": []
+        },
+        {
+            "image_file": "s28.png",
+            "emojis": []
+        }]
+        ,
+        "identifier1": "cuppyID1",
+        "name1": "SO FRENCHIE Pack 2",
+        
+         "stickers1": [
+        {
+            "image_file": "s29.png",
+            "emojis": []
+        },
+        {
+            "image_file": "s30.png",
+            "emojis": []
+        },
+        {
+            "image_file": "s31.png",
+            "emojis": []
+        },
+        {
+            "image_file": "s32.png",
+            "emojis": []
+        },
+        {
+            "image_file": "s33.png",
+            "emojis": []
+        },
+        {
+            "image_file": "s34.png",
+            "emojis": []
+        },
+        {
+            "image_file": "s35.png",
+            "emojis": []
+        },
+        {
+            "image_file": "s36.png",
+            "emojis": []
+        },
+        {
+            "image_file": "s37.png",
+            "emojis": []
+        },
+        {
+            "image_file": "s38.png",
+            "emojis": []
+        },
+        {
+            "image_file": "s39.png",
+            "emojis": []
+        },
+        {
+            "image_file": "s40.png",
+            "emojis": []
+        },
+        {
+            "image_file": "s41.png",
+            "emojis": []
+        },
+        {
+            "image_file": "s42.png",
+            "emojis": []
+        },
+        {
+            "image_file": "s43.png",
+            "emojis": []
+        },
+        {
+            "image_file": "s44.png",
+            "emojis": []
+        },
+        {
+            "image_file": "s45.png",
+            "emojis": []
+        },
+                {
+            "image_file": "s46.png",
+            "emojis": []
+        },
+        {
+            "image_file": "s47.png",
+            "emojis": []
+        },
+        {
+            "image_file": "s48.png",
+            "emojis": []
+        },
+        {
+            "image_file": "s49.png",
+            "emojis": []
+        },
+        {
+            "image_file": "s50.png",
+            "emojis": []
+        },
+        {
+            "image_file": "s51.png",
+            "emojis": []
+        },
+        {
+            "image_file": "s52.png",
+            "emojis": []
+        },
+        {
+            "image_file": "s53.png",
+            "emojis": []
+        },
+        {
+            "image_file": "s54.png",
+            "emojis": []
+        },
+        {
+            "image_file": "s53.png",
+            "emojis": []
+        },
+        {
+            "image_file": "s56.png",
+            "emojis": []
+        }]
+    }]
+    
+}
